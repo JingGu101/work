@@ -3,7 +3,7 @@ Five files:
 - kitt-build.yml (could be shared with others)
 ```
 profiles:
-  -  sprintboot-web-prime17-ubuntu
+  - sprintboot-web-prime17-ubuntu
 setup:
   featureFlagMap:
     buildWhenStageRefMatches: true
